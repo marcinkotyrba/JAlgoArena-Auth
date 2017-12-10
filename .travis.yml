@@ -17,6 +17,6 @@ deploy:
   provider: heroku
   api_key:
     secure: 863586ab-b54d-4028-bf19-e6e7c56c8add
-    app: marcinkotyrba-jaa-auth
+  app: marcinkotyrba-jaa-auth
   on:
     repo: marcinkotyrba/JAlgoArena-Auth
